@@ -36,7 +36,7 @@ class Dataset(Dataset):
     - batch_size: Number of samples in each batch.
     - shuffle: If True, the data will be shuffled at the beginning of each epoch.
 
-  - Example Code
+- Example Code
 ```
 from torch.utils.data import DataLoader
 
