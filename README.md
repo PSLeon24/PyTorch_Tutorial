@@ -1,6 +1,7 @@
 # PyTorch_Tutorial
+## 1. Tensor Manipulation
 
-## 1. Working with Data
+## 2. Working with Data
 - <b>torch.utils.data.Dataset</b> : Dataset is a fundamental class in PyTorch that helps you manage and access the dataset.
   - Basic Concept
     - The Dataset class serves as an interface for feeding data into your PyTorch model.
